@@ -102,6 +102,10 @@ No navegador, abra o notebook `aula_probabilidade.ipynb` e execute as células e
 - [x] **Microsoft Power BI Para Business Intelligence e Data Science**, Data Science Academy: 72h, 98% de aproveitamento, concluído em 27/08/2026
 - [x] **IA na Prática: Como Dados Bem Estruturados Fazem a Diferença**, Fundação Bradesco e Microsoft: 2h, concluído em 27/08/2026
 
+### Outros cursos
+
+- **IA Generativa**, Digital College: 72h
+
 ## 👩‍💻 Autora
 
 **Maria Gabriela Soares**, em formação em Engenharia de Dados.
