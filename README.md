@@ -86,11 +86,21 @@ jupyter notebook
 
 No navegador, abra o notebook `aula_probabilidade.ipynb` e execute as células em ordem.
 
-## 🚀 Próximos passos
+## 🏆 Conquistas
 
-- [ ] Aula 2: distribuições de probabilidade discretas, com `scipy.stats`
-- [ ] Dashboard interativo das vendas com **Streamlit**
-- [ ] Avançar em temas de Engenharia de Dados, como SQL e pipelines de dados
+### Conhecimentos adquiridos neste projeto
+
+- [x] Ambiente virtual Python criado e base de vendas carregada com pandas
+- [x] Probabilidade simples e distribuição por categoria
+- [x] Regra do complemento
+- [x] Regra da adição, para eventos excludentes e no caso geral
+- [x] Probabilidade condicional e tabela cruzada com `crosstab`
+- [x] Versionamento com Git e GitHub, incluindo branch e pull request
+
+### Especializações e certificados
+
+- [x] **Microsoft Power BI Para Business Intelligence e Data Science**, Data Science Academy: 72h, 98% de aproveitamento, concluído em 27/08/2026
+- [x] **IA na Prática: Como Dados Bem Estruturados Fazem a Diferença**, Fundação Bradesco e Microsoft: 2h, concluído em 27/08/2026
 
 ## 👩‍💻 Autora
 
