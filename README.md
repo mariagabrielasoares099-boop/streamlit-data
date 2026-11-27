@@ -31,7 +31,7 @@ Aplicar conceitos de probabilidade a uma base de vendas, **conferindo cada resul
 
 ## 🔎 Análises e resultados
 
-Notebook: [`aula_probabilidade.ipynb`](aula_probabilidade.ipynb)
+Notebook: [`aula_ 01_probabilidade.ipynb`](aula_%2001_probabilidade.ipynb)
 
 | Conceito | Pergunta | Resultado |
 |---|---|---|
@@ -67,7 +67,7 @@ Notebook: [`aula_probabilidade.ipynb`](aula_probabilidade.ipynb)
 
 | Arquivo | Descrição |
 |---|---|
-| [`aula_probabilidade.ipynb`](aula_probabilidade.ipynb) | Aula 1: probabilidade aplicada às vendas |
+| [`aula_ 01_probabilidade.ipynb`](aula_%2001_probabilidade.ipynb) | Aula 1: probabilidade aplicada às vendas |
 | [`superstore_sales.csv`](superstore_sales.csv) | Base de vendas utilizada |
 | [`DIARIO.md`](DIARIO.md) | Registro do que foi feito em cada dia de trabalho |
 
@@ -84,7 +84,7 @@ pip install pandas numpy jupyter
 jupyter notebook
 ```
 
-No navegador, abra o notebook `aula_probabilidade.ipynb` e execute as células em ordem.
+No navegador, abra o notebook `aula_ 01_probabilidade.ipynb` e execute as células em ordem.
 
 ## 🏆 Conquistas
 
