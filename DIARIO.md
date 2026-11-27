@@ -4,6 +4,23 @@ Registro do que foi feito em cada dia de trabalho, atualizado ao encerrar o expe
 
 ---
 
+## 2026-11-27
+
+- Organização das aulas:
+  - `aula_probabilidade.ipynb` passou a se chamar `aula_ 01_probabilidade.ipynb` e ganhou uma célula de apresentação.
+  - Criado o `Dicionário.txt`, com anotações sobre kernel, bibliotecas, `scipy.stats` e a coluna `Order Date`.
+- Configuração do ambiente no Antigravity:
+  - Instalados `ipykernel`, `matplotlib`, `numpy`, `pandas` e `scipy` no `.venv`.
+- Aula 2, distribuições discretas (`aula_02_distribuicoes_discretas.ipynb`):
+  - Importação das bibliotecas e leitura do CSV com `parse_dates=['Order Date']`: 9.994 linhas × 9 colunas.
+  - **Erros resolvidos na leitura do CSV:** `df + pd.read_csv(...)` gerava `NameError` e `TypeError`; o correto é `df = pd.read_csv(...)`.
+  - **Erro de sintaxe:** a marcação ` ```python `, usada para formatar código em conversas, não deve ser colada na célula.
+  - **Binomial (próximo passo):** 10 pedidos, sucesso = ser de Tecnologia. Valores esperados: p ≈ 0,1848, P(X = 3) ≈ 0,1812, P(X ≤ 3) ≈ 0,9043, P(X > 3) ≈ 0,0957 e média ≈ 1,85.
+- Aula 3, regra empírica (`aula_03_regra_empírica.ipynb`):
+  - Notebook criado, com a apresentação do tema: curva de densidade (PDF) sobre um histograma normalizado (`density=True`) e distribuição uniforme.
+
+---
+
 ## 2026-11-23
 
 - Continuação da aula de probabilidade (`aula_probabilidade.ipynb`), com novas células:

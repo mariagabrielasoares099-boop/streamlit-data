@@ -1,0 +1,4 @@
+#Kernel:é o motor de execução que roda o código das células por baixo dos panos.
+# Bibliotecas import pandas as pd e import numpy as np : chamar todas as tabelas e contextos de fórmulas matématicas para a execução dos cálculos da análise de dados.
+# Biblioteca scipy.stats: é o módulo de estatística e distribuições de probabilidade da biblioteca SciPy em Python.
+# Order Date(Poisson):conversão da coluna Order Date em data real (parse_dates) para agrupar pedidos por dia.
